@@ -1,9 +1,0 @@
-{
-	"name": "org.dsle.saveAndReload",
-    "description": "Save the current file and reload the IDE.",
-    "version": 0.01,
-    "icon": "icon.png",
-    "files": [
-    	"org.dsle.saveAndReload.js"
-    ]
-}
