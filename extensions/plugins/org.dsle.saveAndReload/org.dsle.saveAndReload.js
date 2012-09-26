@@ -1,5 +1,6 @@
 ide.registerPlugin({
-    name: 'org.dsle.saveAndReload',
+    id: 'org.dsle.saveAndReload',
+    name: 'Save And Reload',
     file: 'org.dsle.saveAndReload.js',
     description: 'Save the current file and reload the IDE.',
     version: 0.01
@@ -8,7 +9,7 @@ ide.registerPlugin({
 ide.saveAndReload = function() {
     ide.saveFile(function(){
         document.location.href = 'index.html';
-    });  
+    });
 };
 
 ide.tools().menu.add({
@@ -18,9 +19,9 @@ ide.tools().menu.add({
 });
 
 ide.createShortCut({
-    key: "r", 
-    ctrl: true, 
-    shift: true, 
-    alt: false, 
+    key: "r",
+    ctrl: true,
+    shift: true,
+    alt: false,
     fn: ide.saveAndReload
 });
