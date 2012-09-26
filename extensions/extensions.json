@@ -1,0 +1,18 @@
+{
+	"success": true,
+	"count": 1,
+	"extensions":[
+		{
+			"id": "org.dsle.saveAndReload",
+			"name": "Save and Reload",
+			"description": "Save the current file and reload the IDE.",
+			"version": 0.01,
+			"icon": "https://raw.github.com/brunomaia/dsle.org/master/extensions/plugins/org.dsle.saveAndReload/icon.png",
+			"type": "Plugins",
+			"source": "https://raw.github.com/brunomaia/dsle.org/master/extensions/plugins/org.dsle.saveAndReload/",
+			"rating": 3,
+			"releaseDate": "2012-09-26 18:50:00"
+		}
+	]
+
+}
