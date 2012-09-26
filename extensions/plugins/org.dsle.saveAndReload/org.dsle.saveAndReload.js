@@ -1,7 +1,9 @@
 ide.registerPlugin({
     id: 'org.dsle.saveAndReload',
     name: 'Save And Reload',
-    file: 'org.dsle.saveAndReload.js',
+    files: [
+        'org.dsle.saveAndReload.js'
+    ],
     description: 'Save the current file and reload the IDE.',
     version: 0.01
 });
