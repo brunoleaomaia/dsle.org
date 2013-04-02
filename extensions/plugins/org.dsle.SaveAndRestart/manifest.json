@@ -1,0 +1,16 @@
+{
+	"id": "org.dsle.Dropbox",
+	"name": "Save And Restart",
+    "version": 0.01,
+    "author": "Bruno Maia",
+    "description": "Save Current File and Reload DSL Encoder IDE.",
+	"icon": "icon.png",
+	"source": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.SaveAndRestart/",
+	"type": "plugin",
+	"files": [
+		{
+			"name": "org.dsle.SaveAndRestart.js",
+			"type": "js"
+		}
+	]
+}

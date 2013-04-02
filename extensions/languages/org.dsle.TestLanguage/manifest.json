@@ -1,0 +1,24 @@
+{
+  "id": "org.dsle.TestLanguage",
+  "name": "TestLanguage",
+  "version": 0.01,
+  "author": "Bruno Maia",
+  "description": "test.",
+  "icon": "icon.png",
+  "source": "http://localhost/brunomaia/muie/extensions/languages/org.dsle.TestLanguage/",
+  "type": "plugin",
+  "files": [
+    {
+      "name": "org.dsle.TestLanguage.js",
+      "type": "js"
+    },
+    {
+      "name": "org.dsle.TestLanguage.dsl",
+      "type": "dsl"
+    },
+    {
+      "name": "org.dsle.TestLanguage.tpl",
+      "type": "tpl"
+    }
+  ]
+}
