@@ -1,0 +1,24 @@
+{
+  "id": "org.dsle.HelloWorldLanguage",
+  "name": "HelloWorldLanguage",
+  "version": 0.01,
+  "author": "Bruno Maia",
+  "description": "Hello World Language.",
+  "icon": "icon.png",
+  "source": "extensions/languages/org.dsle.HelloWorldLanguage/",
+  "type": "plugin",
+  "files": [
+    {
+      "name": "org.dsle.HelloWorldLanguage.js",
+      "type": "js"
+    },
+    {
+      "name": "org.dsle.HelloWorldLanguage.dsl",
+      "type": "dsl"
+    },
+    {
+      "name": "org.dsle.HelloWorldLanguage.tpl",
+      "type": "tpl"
+    }
+  ]
+}

@@ -8,9 +8,9 @@
 			"description": "Open DSLE.ORG Welcome Home Page on starts.",
 			"version": 0.01,
 			"author": "Bruno Maia",
-			"icon": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.Welcome/icon.png",
+			"icon": "extensions/plugins/org.dsle.Welcome/icon.png",
 			"type": "Plugin",
-			"manifest": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.Welcome/manifest.json",
+			"manifest": "extensions/plugins/org.dsle.Welcome/manifest.json",
 			"rating": 2,
 			"releaseDate": "2013-01-10 23:50:00"
 		},{
@@ -19,9 +19,9 @@
 			"description": "Backup and restore your DSLE files using your Dropbox Account.",
 			"version": 0.01,
 			"author": "Bruno Maia",
-			"icon": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.Dropbox/icon.png",
+			"icon": "extensions/plugins/org.dsle.Dropbox/icon.png",
 			"type": "Plugin",
-			"manifest": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.Dropbox/manifest.json",
+			"manifest": "extensions/plugins/org.dsle.Dropbox/manifest.json",
 			"rating": 5,
 			"releaseDate": "2013-01-10 23:50:00"
 		},{
@@ -30,9 +30,9 @@
 			"description": "Zip All Files And Download.",
 			"version": 0.01,
 			"author": "Bruno Maia",
-			"icon": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.Zip/icon.png",
+			"icon": "extensions/plugins/org.dsle.Zip/icon.png",
 			"type": "Plugin",
-			"manifest": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.Zip/manifest.json",
+			"manifest": "extensions/plugins/org.dsle.Zip/manifest.json",
 			"rating": 3,
 			"releaseDate": "2013-01-10 22:30:00"
 		},{
@@ -41,20 +41,20 @@
 			"description": "Save Current File and Restarts the IDE.",
 			"version": 0.01,
 			"author": "Bruno Maia",
-			"icon": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.SaveAndRestart/icon.png",
+			"icon": "extensions/plugins/org.dsle.SaveAndRestart/icon.png",
 			"type": "Plugin",
-			"manifest": "http://localhost/brunomaia/muie/extensions/plugins/org.dsle.SaveAndRestart/manifest.json",
+			"manifest": "extensions/plugins/org.dsle.SaveAndRestart/manifest.json",
 			"rating": 1,
 			"releaseDate": "2013-01-10 22:30:00"
 		},{
-			"id": "org.dsle.TestLanguage",
-			"name": "TestLanguage",
-			"description": "test",
+			"id": "org.dsle.HelloWorldLanguage",
+			"name": "HelloWorldLanguage",
+			"description": "Hello World Language",
 			"version": 0.01,
 			"author": "Bruno Maia",
-			"icon": "http://localhost/brunomaia/muie/extensions/languages/org.dsle.TestLanguage/icon.png",
+			"icon": "extensions/languages/org.dsle.HelloWorldLanguage/icon.png",
 			"type": "Language",
-			"manifest": "http://localhost/brunomaia/muie/extensions/languages/org.dsle.TestLanguage/manifest.json",
+			"manifest": "extensions/languages/org.dsle.HelloWorldLanguage/manifest.json",
 			"rating": 1,
 			"releaseDate": "2013-01-10 22:30:00"
 		}
